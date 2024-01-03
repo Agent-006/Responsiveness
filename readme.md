@@ -6,7 +6,7 @@
 🎯 Understanding Units
 
 
-🎈 px --> pixel is fixed\
+🎈 px --> pixel is fixed\\
 🎈 % --> percentage is what percent of the parent element\
 🎈 vw, vh --> viewport width - gives width with respect
                                 to the whole screen and\
