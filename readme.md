@@ -140,10 +140,10 @@
 
 🔑 Key points to keep in mind to make website responsive
 
-1️⃣ CSS Flexbox
-2️⃣ CSS Units
-3️⃣ Responsive Typography
-4️⃣ Mobile-First Approach
+1️⃣ CSS Flexbox\
+2️⃣ CSS Units\
+3️⃣ Responsive Typography\
+4️⃣ Mobile-First Approach\
 5️⃣ Flexible Images and Media
 
 📌 Practice! Practice! Practice!
