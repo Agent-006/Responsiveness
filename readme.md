@@ -10,16 +10,16 @@
 🎈 % --> percentage is what percent of the parent element\
 🎈 vw, vh --> viewport width - gives width with respect
                                 to the whole screen and\
-               viewport height - gives height with respect 
+               &nbsp;viewport height - gives height with respect 
                                  to the whole screen\
 🎈 vmax, vmin --> viewportMax - Changes the size with
                                 respect to the maximum 
                                 size of the screen.\
-                   viewportMin - Changes the size with
+                &nbsp;viewportMin - Changes the size with
                                  respect to the minimun 
                                  size of the screen.\
 🎈 em, rem --> em determines the size with respect to it's
                 parent.\
-                rem determines the size with respect to the
+            &nbsp;rem determines the size with respect to the
                 document(HTML).
 
