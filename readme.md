@@ -3,13 +3,13 @@
 
 🎯 Understanding Units ✅
 
-🌟 px --> pixel is fixed\
+🌟 px --> pixel is fixed
 
     target_element {
         font-size: 12px;
     }
 
-🌟 % --> percentage is what percent of the parent element\
+🌟 % --> percentage is what percent of the parent element
 
     target_element {
         font-size: 12%;
@@ -22,10 +22,10 @@
         width: 100%;
     }
 
-🌟 vw, vh --> viewport width - gives width with respect
+🌟 vw, vh -->\ viewport width - gives width with respect
                                 to the whole screen and\
                &nbsp;viewport height - gives height with respect 
-                                 to the whole screen\
+                                 to the whole screen
 
     target_element {
         height: 100vh;
@@ -43,12 +43,12 @@
     }
 
 
-🌟 vmax, vmin --> viewportMax - Changes the size with
+🌟 vmax, vmin -->\ viewportMax - Changes the size with
                                 respect to the maximum 
                                 size of the screen.\
                   viewportMin - Changes the size with
                                  respect to the minimun 
-                                 size of the screen.\
+                                 size of the screen.
 
     target_element {
         font-size: 7vmax;
@@ -59,7 +59,7 @@
     }
 
 
-🌟 em, rem --> em determines the size with respect to it's
+🌟 em, rem -->\ em determines the size with respect to it's
                 parent.\
                rem determines the size with respect to the
                 root(HTML). 1 root = 16pixels
